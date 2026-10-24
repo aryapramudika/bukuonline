@@ -1,0 +1,298 @@
+---
+judul: Enchiridion (Buku Pegangan)
+penulis: Epiktetos
+urutan: 3
+deskripsi: Penjelasan 53 bab Enchiridion dalam bahasa Indonesia (Project Gutenberg #45109).
+---
+# Enchiridion (Buku Pegangan) — Epictetus
+
+**Penulis:** Epiktetos (sekitar 50–135 M)
+**Penyusun catatan:** Flavius Arrianus (Arrian)
+**Sumber teks:** Project Gutenberg eBook #45109 (terjemahan Inggris oleh Thomas W. Higginson, dengan pengantar Albert Salomon, edisi 1948)
+
+> Dokumen ini adalah **ringkasan dan penjelasan dalam bahasa Indonesia**, disusun ulang dengan kata-kata sendiri agar mudah dipahami. Ini bukan terjemahan kata per kata. Untuk kutipan resmi atau kajian akademik, rujuklah teks asli atau terjemahan resmi.
+
+---
+
+## Pengantar
+
+### Siapa Epiktetos?
+
+Epiktetos lahir sekitar tahun 50–60 M di Hierapolis, Frigia (sekarang wilayah Turki). Ia adalah budak, anak dari seorang budak perempuan. Ia bekerja untuk salah satu pejabat bekas budak yang melayani Kaisar Nero. Selama masih menjadi budak, ia belajar filsafat Stoa dari Musonius Rufus, seorang guru Stoa yang terkenal.
+
+Setelah bebas, Epiktetos mengajar filsafat di jalanan dan di pasar, tetapi belum berhasil. Sekitar tahun 89–92 M, ketika Kaisar Domitianus mengusir para filsuf dari Roma, ia pindah ke Nikopolis di Epirus dan mendirikan sekolahnya sendiri. Sekolahnya terkenal, dan murid datang dari Athena maupun Roma. Ada yang kembali ke kehidupan biasa, dan ada yang benar-benar menjalani hidup sebagai filsuf.
+
+Murid yang paling terkenal adalah Arrianus, seorang Romawi muda yang kelak menjadi konsul. Arrianus mencatat ceramah dan percakapan Epiktetos, lalu menerbitkannya dalam **Diatribai** (*Discourses*, empat buku). Dari catatan itu ia juga menyusun **Enchiridion**, yang berarti "buku pegangan", berisi rangkuman ajaran pokok Stoa dalam bentuk yang ringkas dan praktis.
+
+Epiktetos sendiri tidak meninggalkan tulisan. Ia lebih peduli pada cara murid menjalani hidup daripada menyusun sistem teori.
+
+### Mengapa buku kecil ini begitu berpengaruh?
+
+Enchiridion sering dibaca oleh para pemikir modern, termasuk Montaigne, Pascal, Raja Frederik Agung, dan para filsuf Skotlandia seperti Adam Smith. Ajarannya tentang kebebasan batin, tanggung jawab pribadi, dan ketenangan menghadapi hal-hal di luar kendali membuatnya menarik bagi banyak generasi, termasuk mereka yang tidak lagi percaya pada agama.
+
+Epiktetos menunjukkan bahwa manusia bisa membebaskan dirinya lewat akal sehat dan latihan, tanpa bergantung pada rahmat ilahi. Gagasan ini membuat banyak orang merasa punya jalan sendiri menuju kebebasan batin.
+
+Selain itu, buku ini bukan teori yang kering. Ia adalah panduan latihan: bagaimana bersikap dalam pesta, dalam pergaulan, saat kehilangan orang yang dicintai, dan saat menghadapi cemoohan.
+
+---
+
+## Isi Ajaran
+
+### Bab I: Yang ada dalam kendali kita dan yang tidak
+
+Ajaran dasar Epiktetos adalah membedakan dua hal:
+
+- **Yang ada dalam kendali kita:** pendapat, niat, keinginan, dan penolakan. Semua ini adalah urusan kita sendiri.
+- **Yang di luar kendali kita:** tubuh, harta, nama baik, jabatan, dan segala hal yang bukan urusan kita sendiri.
+
+Yang pertama bersifat bebas. Yang kedua rapuh dan bisa direbut. Jika kita menganggap milik orang lain sebagai milik kita, kita akan selalu kecewa, cemas, dan menyalahkan orang lain atau bahkan para dewa. Sebaliknya, jika kita hanya memegang apa yang memang milik kita dan menerima hal lain apa adanya, tidak ada orang yang bisa memaksa atau melukai kita dengan cara yang benar-benar penting.
+
+Maka kita harus menolak kesan yang tidak menyenangkan dan menilainya dengan satu pertanyaan utama: apakah hal itu ada dalam kendali kita? Jika tidak, katakan dengan tenang bahwa itu bukan urusan kita.
+
+### Bab II: Keinginan dan penolakan
+
+Keinginan mengharuskan kita mendapatkan apa yang diinginkan, dan penolakan mengharuskan kita menghindari apa yang ditolak. Orang yang gagal mendapatkan keinginannya akan kecewa, dan orang yang terkena hal yang ditolaknya akan sengsara.
+
+Jika kita hanya menolak hal-hal yang ada dalam kendali kita, kita tidak akan pernah mengalami apa yang tidak kita inginkan. Sebaliknya, jika kita menolak sakit, kematian, atau kemiskinan, kita sedang mengambil risiko sengsara. Karena itu, hindari keinginan terhadap hal yang di luar kendali, dan arahkan penolakan hanya pada hal-hal buruk yang berada dalam kendali kita, misalnya perbuatan salah sendiri.
+
+### Bab III: Menyadari sifat benda kesayangan
+
+Untuk setiap benda yang kita sukai atau cintai, ingatkan diri bahwa itu hanyalah benda atau makhluk fana. Cangkir kesayangan tetaplah cangkir, dan anak atau pasangan kita tetaplah manusia yang bisa mati. Dengan begitu, jika benda itu pecah atau orang itu meninggal, kita tetap bisa menanggungnya.
+
+### Bab IV: Sadar akan setiap tindakan
+
+Sebelum melakukan sesuatu, ingat apa sifat tindakan itu. Jika akan mandi, bayangkan hal-hal yang biasa terjadi di pemandian: orang yang berdesakan, yang berteriak, yang mencuri. Lalu tetapkan niat: "Aku mandi sambil menjaga kehendakku tetap selaras dengan alam." Dengan begitu, jika ada gangguan, kita tidak mudah marah, karena sejak awal kita sudah tahu apa yang mungkin terjadi.
+
+### Bab V: Bukan peristiwanya, tetapi pandangan kita
+
+Manusia tidak terganggu oleh hal-hal itu sendiri, melainkan oleh cara mereka memandangnya. Kematian sendiri tidak menakutkan; yang menakutkan adalah anggapan kita bahwa kematian itu mengerikan. Jika kita merasa terganggu atau sedih, jangan menyalahkan orang lain. Orang yang belum berpengetahuan menyalahkan orang lain, orang yang sedang belajar menyalahkan dirinya sendiri, dan orang yang bijaksana tidak menyalahkan siapa pun.
+
+### Bab VI: Jangan bangga atas hal yang bukan milikmu
+
+Jika seekor kuda bangga karena dirinya tampan, itu mungkin bisa diterima. Tetapi jika kita bangga "aku punya kuda yang tampan", sebenarnya kebanggaan itu hanya milik kuda tersebut. Yang benar-benar milik kita adalah cara kita menggunakan kesan-kesan yang datang kepada kita. Jika kita selaras dengan alam dalam hal itu, kebanggaan kita beralasan, karena ia berasal dari kebaikan kita sendiri.
+
+### Bab VII: Seperti penumpang kapal
+
+Ibarat penumpang yang turun ke darat untuk mengambil air, boleh saja ia memungut kerang di jalan, tetapi pikirannya tetap tertuju pada kapal, siap kembali saat dipanggil. Demikian pula dalam hidup: istri, anak, atau harta boleh kita nikmati, tetapi kita harus siap melepaskannya ketika "nakhoda" memanggil, yaitu ketika kehidupan berakhir.
+
+### Bab VIII: Jangan menuntut kejadian sesuai keinginanmu
+
+Jangan menuntut agar segala sesuatu terjadi sesuai dengan kehendakmu. Terimalah apa yang terjadi sebagaimana adanya, dan hidupmu akan berjalan dengan baik.
+
+### Bab IX: Penyakit menghalangi tubuh, bukan kehendak
+
+Penyakit menghalangi tubuh, dan pincang menghalangi kaki, tetapi tidak menghalangi kehendak kita, kecuali kita sendiri membiarkannya. Dalam setiap peristiwa, ingatlah bahwa yang terhalang hanyalah sesuatu yang lain, bukan diri kita yang sebenarnya.
+
+### Bab X: Setiap kejadian adalah kesempatan melatih kebajikan
+
+Setiap kali ada peristiwa, tanyakan pada diri sendiri kemampuan apa yang bisa kita pakai untuk menghadapinya. Jika bertemu orang yang menggoda, kita membutuhkan pengendalian diri. Jika merasakan sakit, kita membutuhkan keteguhan. Jika dicaci, kita membutuhkan kesabaran. Jika kebiasaan ini dilatih, kejadian-kejadian hidup tidak akan mudah meruntuhkan kita.
+
+### Bab XI: Jangan berkata "aku kehilangan", tetapi "aku mengembalikan"
+
+Jangan pernah berkata "aku kehilangan sesuatu", tetapi "aku mengembalikannya". Jika anak kita meninggal, kita mengembalikannya kepada pemberinya. Jika harta diambil, itu juga dikembalikan. Walaupun yang mengambil adalah orang jahat, pertanyaannya bukan siapa yang mengambil, melainkan bahwa semua itu hanya dipinjamkan kepada kita. Selama dipinjamkan, pegang dengan sadar bahwa itu bukan milik kita, seperti tamu yang menginap di penginapan.
+
+### Bab XII: Mulai dari hal kecil
+
+Untuk memperbaiki diri, jangan berpikir "jika aku lalai, aku tidak akan punya penghasilan; jika aku tidak menghukum pelayanku, dia tidak akan berguna". Lebih baik mati kelaparan tanpa kesedihan dan ketakutan daripada hidup kaya tetapi gelisah. Lebih baik pelayan kita buruk daripada kita sendiri yang menderita.
+
+Mulailah dari hal-hal kecil. Jika minyak tumpah atau anggur dicuri, katakan pada diri sendiri: "Inilah harga untuk ketenangan. Tidak ada yang didapat tanpa harga." Dan jika memanggil pelayan, sadari bahwa ia mungkin tidak datang, atau datang tetapi tidak melakukan yang kita mau. Sungguh tidak baik jika orang lain bisa mengganggu ketenangan kita.
+
+### Bab XIII: Rela dianggap bodoh soal hal lahiriah
+
+Jika ingin maju, rela dianggap bodoh dan biasa-biasa saja dalam urusan lahiriah. Jangan ingin tampak pintar, dan meski orang lain menganggapmu penting, tetap curigai dirimu sendiri. Menjaga kehendak tetap selaras dengan alam dan mengejar hal-hal lahiriah sekaligus memang sulit. Perhatian yang penuh pada salah satunya berarti mengabaikan yang lain.
+
+### Bab XIV: Tuan atas dirimu sendiri
+
+Jika kita ingin anak, istri, dan sahabat hidup selamanya, itu tidak masuk akal, karena kita menginginkan sesuatu yang tidak ada dalam kendali kita. Demikian juga jika kita ingin pelayan tanpa cela, kita sedang menginginkan agar kesalahan bukan lagi kesalahan. Yang bisa kita kendalikan adalah agar keinginan kita tidak kecewa, yaitu dengan mengatur keinginan kita sendiri. Tuan sejati adalah orang yang bisa memberi atau mengambil apa yang kita cari dan hindari. Maka, untuk bebas, jangan menginginkan atau menolak apa pun yang bergantung pada orang lain.
+
+### Bab XV: Seperti di pesta
+
+Bersikaplah seperti tamu di sebuah pesta. Jika makanan disodorkan, ambil secukupnya. Jika lewat di depanmu, jangan menahannya. Jika belum sampai, jangan bernafsu untuk mengambilnya, tunggu saja. Begitu pula dengan anak, istri, jabatan, dan kekayaan. Jika kita bisa menahan diri bahkan dari hal yang sudah tersedia, kita layak "berpesta bersama para dewa". Diogenes dan Heraklitus, serta orang-orang sejenis mereka, dihormati karena sikap seperti ini.
+
+### Bab XVI: Jangan ikut hanyut dalam kesedihan orang lain
+
+Ketika melihat seseorang menangis karena anaknya pergi jauh atau karena kerugian, jangan ikut terhanyut oleh kesan buruk itu. Ingatlah bahwa yang membuatnya sedih bukanlah peristiwanya sendiri, karena orang lain mungkin tidak sedih, melainkan pandangannya tentang peristiwa itu. Tetapi dalam percakapan, tak apa-apa jika kita ikut menemaninya, bahkan ikut berduka, asalkan hati kita sendiri tidak ikut larut.
+
+### Bab XVII: Peran dalam sebuah drama
+
+Hidup seperti aktor dalam sebuah drama yang ditulis oleh sang Pencipta. Drama itu bisa pendek atau panjang, dan kita mungkin mendapat peran sebagai orang miskin, orang cacat, penguasa, atau rakyat biasa. Tugas kita adalah memainkan peran itu dengan baik. Memilih peran bukan urusan kita.
+
+### Bab XVIII: Burung gagak yang berkoak
+
+Jika seekor burung gagak berkoak dan orang menganggapnya pertanda buruk, jangan terpengaruh. Katakan pada diri sendiri: tidak ada yang diramalkan untuk tubuhku, harta, nama baik, anak, atau istriku. Bagi orang yang bijaksana, setiap kejadian bisa menjadi kesempatan untuk belajar dan maju.
+
+### Bab XIX: Tak terkalahkan dalam pertempuran yang bisa kau menangkan
+
+Kita tidak akan bisa dikalahkan jika tidak ikut dalam pertarungan yang hasilnya tidak ada dalam kendali kita. Jika melihat orang yang terhormat, berkuasa, atau dihormati, jangan silau dan menganggapnya bahagia. Jika kebaikan sejati ada dalam hal-hal yang ada dalam kendali kita, tidak ada alasan untuk iri atau berlomba-lomba mengejar jabatan. Yang harus kita kejar adalah kebebasan, dan jalannya adalah dengan tidak menggantungkan diri pada hal-hal di luar kendali kita.
+
+### Bab XX: Yang menyakiti adalah penilaianmu
+
+Yang membuat kita tersinggung bukanlah orang yang mencaci atau memukul, melainkan cara kita menilai tindakan itu sebagai penghinaan. Maka jika ada yang memancing amarah, sadarilah bahwa pendapatmulah yang memancing amarah itu. Usahakan untuk tidak terbawa kesan itu. Jika kita bisa memberi jeda, kita akan lebih mudah menguasai diri.
+
+### Bab XXI: Hadirkan kematian dan hal menakutkan lainnya
+
+Hadirkan setiap hari dalam pikiran hal-hal yang menakutkan, terutama kematian, pengasingan, dan kehilangan. Dengan begitu, kita tidak akan berpikiran hina dan tidak akan terlalu serakah terhadap sesuatu.
+
+### Bab XXII: Bersiap ditertawakan saat belajar filsafat
+
+Jika sungguh ingin belajar filsafat, bersiaplah untuk ditertawakan dan dicemooh orang sekitar, yang akan berkata "dia tiba-tiba jadi filsuf" atau bertanya mengapa wajahmu sombong. Jangan bersikap sombong, tetapi tetap teguh pada apa yang kamu anggap benar, seperti orang yang ditugaskan untuk posisi itu. Jika kamu gigih, mereka yang dulu mencemooh mungkin akan mengagumimu. Tetapi jika kamu menyerah pada cemooh mereka, kamu akan ditertawakan dua kali.
+
+### Bab XXIII: Jangan mengubah dirimu demi menyenangkan orang lain
+
+Jika kamu mengubah cara hidupmu hanya demi menyenangkan orang lain, sesungguhnya kamu telah merusak tujuan hidupmu. Cukuplah menjadi filsuf dalam segala hal. Jika ingin orang lain juga melihatmu sebagai filsuf, tunjukkan dulu pada dirimu sendiri. Itu sudah cukup.
+
+### Bab XXIV: Kehormatan dan tanggung jawab kepada orang lain
+
+Jangan khawatir bahwa kamu akan hidup dalam aib dan tidak dihargai di mana pun. Jika aib itu sesuatu yang buruk, kamu tidak bisa tercemar oleh keburukan orang lain, sama seperti kamu tidak bisa tercemar oleh perbuatan orang lain.
+
+Apakah kamu harus mengejar kekuasaan atau undangan pesta? Tidak perlu. Jika orang lain tidak mendapat bantuan darimu, itu bukan kesalahan yang harus kamu tanggung dengan mengorbankan kehormatan dan kesetiaanmu. Jika kamu diminta kehilangan kebaikan dirimu sendiri demi sesuatu yang tidak baik, itu tidak masuk akal.
+
+Ketika ditanya apa yang bisa diberikan kepada negara, jawabannya: lakukan apa pun yang bisa kamu lakukan tanpa mengorbankan kesetiaan dan kehormatanmu. Negara tidak butuh kamu menjadi pengkhianat yang tidak tahu malu.
+
+### Bab XXV: Jangan iri pada orang yang lebih dulu mendapat undangan
+
+Jika orang lain didahulukan dalam pesta atau dalam pertemuan pribadi, jika itu baik, bersukacitalah untuknya. Jika itu buruk, jangan bersedih karena tidak mendapatkannya. Kamu tidak bisa bersaing dalam hal-hal lahiriah tanpa menanggung harganya. Kamu tidak bisa mendapatkan undangan pesta tanpa memuji tuan rumah dan menghormatinya. Kalau kamu tidak mau membayar harga itu, tetapi tetap ingin mendapatkan hasilnya, itu tidak adil dan tidak masuk akal. Seperti sayur yang harus dibayar, undangan juga harus dibayar dengan pujian dan kehadiran, atau kamu harus rela tidak mendapatkannya.
+
+### Bab XXVI: Belajar dari kehilangan orang lain
+
+Kehendak alam bisa dipelajari dari hal-hal yang kita semua sepakat. Jika cangkir tetangga pecah, kita langsung berkata, "Itu hal yang wajar terjadi". Maka ketika cangkir kita sendiri pecah, kita seharusnya bereaksi dengan cara yang sama. Begitu pula dengan kematian. Ketika anak atau istri orang lain meninggal, kita berkata, "Begitulah kematian." Tetapi ketika itu terjadi pada keluarga kita, kita berseru, "Malang sekali aku!" Ingatlah bagaimana kita menanggapi peristiwa pada orang lain, dan terapkan itu pada diri sendiri.
+
+### Bab XXVII: Tanda untuk dipanah
+
+Sebagaimana sasaran dipasang bukan agar meleset, demikian pula keburukan tidak ada di dunia untuk membuat kita gagal. Kebahagiaan adalah hasil dari kebajikan, dan kegagalan kita mencapainya adalah kesalahan kita sendiri, bukan kesalahan alam.
+
+### Bab XXVIII: Tubuh dan pikiran
+
+Jika seseorang menyerahkan tubuhmu kepada orang yang lewat, kamu pasti marah. Lalu mengapa kamu tidak malu menyerahkan pikiranmu kepada setiap pencela, sehingga kamu gelisah dan bingung?
+
+### Bab XXIX: Pertimbangkan dulu sebelum memulai
+
+Sebelum memulai sesuatu, pikirkan apa yang akan terjadi sebelum dan sesudahnya. Jika tidak, kamu akan bersemangat di awal, lalu mundur dengan malu ketika kesulitan datang. Misalnya, jika ingin ikut lomba olahraga, kamu harus berlatih dengan disiplin, menjaga pola makan, dan siap menanggung luka, kekalahan, atau cedera. Jika kamu sudah memikirkan semua itu dan tetap ingin melanjutkan, barulah mulai. Jika tidak, kamu hanya seperti anak-anak yang bermain-main menjadi pegulat, gladiator, atau aktor: sekarang filsuf, besok orator, lusa pejabat. Semua itu tidak konsisten. Kamu harus memilih jalanmu: mengolah akal budi, atau mengejar hal-hal lahiriah.
+
+### Bab XXX: Kewajiban sesuai hubungan
+
+Kewajiban diukur dari hubungan kita dengan orang lain. Jika seseorang adalah ayahmu, kewajibanmu adalah merawatnya dan menghormatinya, meski ia ayah yang buruk. Jika saudaramu berlaku tidak adil, tetap jalankan hubunganmu sendiri dengan benar. Orang lain tidak bisa melukaimu kecuali kamu mengizinkannya. Dengan merenungkan hubungan sebagai tetangga, warga, atau pemimpin, kamu bisa menemukan kewajiban yang sesuai dari masing-masing.
+
+### Bab XXXI: Kesalehan kepada para dewa
+
+Kesalehan kepada para dewa berarti memiliki pandangan yang benar tentang mereka: bahwa mereka ada dan mengatur alam semesta dengan adil dan baik. Terimalah ketetapan mereka dengan rela, dan jangan menyalahkan mereka. Jika kita menganggap hal-hal di luar kendali kita sebagai baik atau buruk, kita akan menyalahkan mereka ketika harapan kita gagal. Maka kesalehan dimulai dari mengatur keinginan dan penolakan kita dengan benar. Tetap lakukan persembahan sesuai adat, dengan tulus dan tidak berlebihan.
+
+### Bab XXXII: Ramalan
+
+Ketika mencari ramalan, ingatlah bahwa kamu tidak tahu apa yang akan terjadi. Jangan datang dengan keinginan atau ketakutan, karena kamu akan gemetar. Pahami dulu bahwa setiap peristiwa pada dasarnya netral dan tidak berpengaruh pada dirimu, karena kamu bebas menggunakannya dengan baik. Jika dalam urusan persahabatan atau negara kamu harus berani menghadapi bahaya, jangan bertanya pada peramal apakah kamu boleh ikut. Peramal mungkin hanya meramalkan kematian, cacat, atau pengasingan. Akal budi kita sendiri memberitahu bahwa kita harus setia pada sahabat dan negara. Dengarkan suara yang lebih tinggi itu.
+
+### Bab XXXIII: Cara bersikap di depan umum
+
+Tetapkan sifat dan perilaku yang bisa kamu pertahankan baik sendirian maupun di tengah orang banyak.
+
+- Lebih banyak diam, dan bicara hanya seperlunya, dengan kata-kata yang singkat.
+- Jika bicara, hindari topik sepele seperti pertandingan, makanan, atau gosip, terutama tentang orang lain yang dicela atau dipuji. Usahakan mengarahkan percakapan ke hal yang bermanfaat. Jika berada di antara orang asing, lebih baik diam.
+- Jangan tertawa keras atau terlalu sering.
+- Hindari bersumpah sebisa mungkin.
+- Jauhi hiburan publik yang vulgar. Jika terpaksa hadir, jagalah diri agar tidak ikut terbawa. Orang yang murni pun bisa rusak jika bergaul dengan teman yang rusak.
+- Pakai barang untuk tubuh hanya sebatas kebutuhan: makanan, minuman, pakaian, rumah. Hindari kemewahan dan pamer.
+- Sebelum menikah, jaga diri dari hubungan yang tidak pantas, tetapi jangan menghakimi keras orang yang melanggarnya, dan jangan sering membanggakan diri bahwa kamu tidak pernah melakukannya.
+- Jika seseorang mengatakan hal buruk tentangmu, jangan membela diri. Jawab saja dengan tenang: "Dia tidak tahu tentang kekuranganku yang lain, kalau tidak, dia pasti tidak hanya menyebut yang ini."
+- Tidak perlu sering hadir di acara pertunjukan. Jika hadir, jangan terlalu peduli pada hasilnya. Jangan bersorak, mengejek, atau marah-marah. Setelah pulang, jangan membicarakan terus-menerus hal yang tidak membantu perbaikan dirimu.
+- Jangan terburu-buru menghadiri pembacaan atau presentasi pribadi. Jika hadir, jaga sikap dan martabatmu tanpa membuat orang lain tidak nyaman.
+- Ketika akan berbicara dengan seseorang, terutama yang lebih tinggi kedudukannya, bayangkan bagaimana Sokrates atau Zeno akan bersikap. Dengan begitu kamu akan tahu cara menghadapinya.
+- Ketika akan menghadap pejabat, bayangkan kemungkinan terburuk: ia tidak ada di rumah, pintunya tidak dibuka, ia tidak memperhatikanmu. Jika tetap harus pergi, terima apa pun yang terjadi, dan jangan berkata "itu tidak sepadan dengan usahaku".
+- Dalam pergaulan, jangan terlalu sering menceritakan perbuatanmu atau bahaya yang pernah kamu hadapi. Jangan berusaha membuat orang tertawa dengan cara yang vulgar. Jika ada yang mulai berbicara cabul, tegur atau tunjukkan ketidaksenangan dengan diam dan wajah serius.
+
+### Bab XXXIV: Jangan terpikat oleh kenikmatan sesaat
+
+Jika kamu tergoda oleh janji kesenangan, tunda dulu keputusanmu. Bayangkan dua saat: saat kamu menikmatinya, dan saat kamu menyesal setelahnya. Lalu bayangkan betapa bahagianya kamu jika mampu menahan diri. Meski kenikmatan itu tampak wajar, jangan biarkan godaannya menaklukkanmu. Ingatlah betapa berharganya kemenangan atas diri sendiri.
+
+### Bab XXXV: Lakukan apa yang benar, tanpa takut dilihat
+
+Jika kamu melakukan sesuatu karena kamu yakin itu benar, jangan takut dilihat orang, meski mereka salah paham. Jika tindakanmu memang salah, hindari tindakan itu. Jika benar, untuk apa takut pada orang yang keliru menilaimu?
+
+### Bab XXXVI: Keseimbangan di meja makan
+
+Dalam logika, pernyataan "siang atau malam" berguna dalam pilihan, tetapi tidak berarti dalam pernyataan gabungan. Demikian juga di pesta: mengambil porsi terbesar mungkin cocok bagi tubuhmu, tetapi bertentangan dengan semangat kebersamaan. Ketika makan bersama orang lain, ingat bukan hanya nilai makanan bagi tubuhmu, tetapi juga sopan santun terhadap tuan rumah.
+
+### Bab XXXVII: Jangan memakai peran di luar kemampuanmu
+
+Jika kamu mengambil peran yang melebihi kemampuanmu, kamu sudah merendahkan diri sendiri dan meninggalkan peran yang sebenarnya bisa kamu jalani dengan baik.
+
+### Bab XXXVIII: Jaga pikiranmu
+
+Seperti kita berhati-hati agar tidak menginjak paku atau keseleo saat berjalan, berhati-hatilah agar tidak melukai bagian terpenting dari pikiranmu, yaitu kemampuan menilai dengan benar. Jika kita menjaga ini dalam setiap tindakan, kita akan bertindak dengan lebih aman.
+
+### Bab XXXIX: Ukuran yang pas
+
+Tubuh adalah ukuran yang pas bagi kepemilikan kita, sama seperti kaki menjadi ukuran sepatu. Jika berhenti pada ukuran itu, kamu tetap berada di jalur yang benar. Jika melampauinya, kamu akan terseret seperti jatuh ke jurang. Seperti sepatu yang terlalu besar, lama-lama ia menjadi berhiaskan emas, ungu, dan permata. Yang melampaui ukuran yang pas tidak punya batas.
+
+### Bab XL: Perempuan dan pujian
+
+Sejak usia empat belas, perempuan sering dirayu dengan sebutan "nyonya" oleh laki-laki. Karena itu mereka mudah menganggap diri mereka hanya berharga sejauh bisa menyenangkan laki-laki, lalu mereka menggantungkan harapan pada penampilan. Padahal, mereka seharusnya dihargai karena sikap yang sopan dan kebajikan yang sungguh-sungguh.
+
+### Bab XLI: Jangan terlalu sibuk dengan tubuh
+
+Menghabiskan banyak waktu untuk urusan tubuh, seperti olahraga berlebihan, makan dan minum berlebihan, adalah tanda kurangnya akal. Hal-hal itu sebaiknya dilakukan sekadarnya, dan kekuatan utama kita harus diarahkan pada akal budi.
+
+### Bab XLII: Orang yang menyakitimu juga sedang tersesat
+
+Jika seseorang berbuat jahat atau mencelamu, ingatlah bahwa ia bertindak berdasarkan keyakinan bahwa itu benar menurutnya. Ia tidak mungkin mengikuti apa yang menurutmu benar, hanya apa yang menurutnya benar. Jika ia menilai dengan keliru, dialah yang sebenarnya dirugikan, karena ia tertipu. Jika seseorang menganggap kebenaran sebagai kebohongan, kebenarannya tidak rusak; orangnyalah yang tertipu. Dengan prinsip ini, kamu bisa menanggapi cacian dengan tenang, dengan berkata dalam hati, "Baginya memang begitu kelihatannya."
+
+### Bab XLIII: Setiap hal punya dua pegangan
+
+Setiap hal punya dua pegangan: satu yang bisa dipegang dengan baik, dan satu yang tidak. Jika saudaramu berbuat tidak adil, jangan memegang peristiwa itu dari sisi ketidakadilannya, karena pegangan itu menyakitkan. Peganglah dari sisi lain: bahwa ia saudaramu, dan kalian dibesarkan bersama. Dengan begitu kamu bisa menanggungnya.
+
+### Bab XLIV: Alasan yang tidak nyambung
+
+Ada alasan yang keliru seperti: "Aku lebih kaya darimu, jadi aku lebih tinggi darimu", atau "Aku lebih fasih darimu, jadi aku lebih tinggi darimu". Hubungan logis yang benar adalah: "Aku lebih kaya, jadi hartaku lebih banyak darimu". Dan "Aku lebih fasih, jadi gayaku lebih baik darimu". Namun, pada akhirnya, nilai dirimu tidak terletak pada harta atau kefasihanmu.
+
+### Bab XLV: Jangan menilai orang dari tampilan luar
+
+Jika seseorang mandi tergesa-gesa, jangan langsung bilang ia melakukannya dengan buruk, katakan saja ia mandi tergesa-gesa. Jika seseorang minum banyak anggur, katakan saja ia minum banyak, jangan langsung menyebutnya berbuat salah. Kalau kamu tidak paham maksud orang itu, bagaimana kamu bisa tahu ia salah? Dengan begitu kamu tidak mudah tertipu oleh kesan yang belum kamu pahami.
+
+### Bab XLVI: Tunjukkan dengan perbuatan, bukan kata-kata
+
+Jangan mengaku diri sebagai filsuf dan jangan banyak bicara tentang prinsipmu di depan orang yang tidak paham. Tunjukkan dengan perbuatan. Dalam pesta, jangan berceramah tentang cara makan yang baik, tetapi makanlah dengan baik. Sokrates pun menghindari pamer. Jika seseorang meminta diperkenalkan kepada para filsuf, ia dengan senang hati mengenalkannya, dan tidak mempermasalahkan jika ia dilupakan. Jika ada yang mengatakan kamu tidak tahu apa-apa dan kamu tidak tersinggung, itu tanda kamu sudah mulai bekerja. Seperti domba yang tidak memuntahkan rumput untuk menunjukkan berapa banyak yang dimakannya, tetapi mengubahnya menjadi wol dan susu, demikianlah sebaiknya pengetahuanmu terlihat dalam perbuatan, bukan dalam pamer.
+
+### Bab XLVII: Hidup sederhana tanpa pamer
+
+Ketika kamu sudah bisa hidup sederhana, jangan membanggakannya. Jangan selalu berkata "aku hanya minum air". Ingatlah bahwa orang miskin jauh lebih sederhana dan lebih tabah daripada kita. Jika kamu ingin melatih diri dengan kerja keras atau kekurangan, lakukan untuk dirimu sendiri, jangan berlebihan, dan jangan memberi tahu siapa pun.
+
+### Bab XLVIII: Ciri orang biasa dan ciri filsuf
+
+Orang biasa hanya mengharapkan pertolongan atau bahaya dari hal-hal di luar dirinya. Filsuf mengharapkan segala pertolongan dan bahaya dari dirinya sendiri. Ciri orang yang sudah maju: ia tidak mencela, memuji, menyalahkan, atau menuduh siapa pun. Ia tidak membanggakan dirinya. Jika dihalangi, ia menyalahkan dirinya sendiri. Jika dipuji, ia tersenyum. Jika dicela, ia tidak membela diri. Ia berjalan dengan hati-hati seperti orang yang baru sembuh. Ia menahan keinginan, mengarahkan penolakan hanya pada yang merusak kehendaknya, dan menjaga diri seperti menjaga musuh yang bersembunyi.
+
+### Bab XLIX: Jangan bangga hanya karena bisa menafsirkan Krisippos
+
+Jika seseorang berbangga karena bisa memahami dan menafsirkan karya Krisippos, katakan pada dirimu: andaikan Krisippos tidak menulis dengan rumit, orang ini tidak akan punya apa-apa untuk dibanggakan. Yang kita inginkan adalah memahami alam dan mengikutinya. Jika kita menemukan penafsir yang bisa membantu, kita memakai bimbingannya. Tetapi jika kita hanya kagum pada penafsirannya, kita hanya menjadi tata bahasawan, bukan filsuf. Ketika orang meminta kita membacakan Krisippos, kita seharusnya malu jika tidak bisa menunjukkan perbuatan yang sejalan dengan ajarannya.
+
+### Bab L: Jangan menunda perbaikan diri
+
+Patuhilah prinsip yang sudah kamu pilih seperti hukum, dan jangan terlalu peduli pada pendapat orang tentangmu. Sampai kapan kamu menunda memperbaiki diri? Kamu sudah mempelajari prinsip-prinsipnya. Apa lagi yang kamu tunggu? Kamu sudah bukan anak-anak, tetapi orang dewasa. Jika kamu terus menunda, hari demi hari, kamu akan hidup dan mati tanpa berkembang. Mulailah sekarang. Anggaplah diri sebagai orang dewasa yang sudah dewasa dalam kebajikan. Anggap saat ini sebagai pertarungan, sebagai Olimpiade yang tidak bisa ditunda. Sokrates menjadi sempurna dengan terus memperbaiki diri hanya dengan mengikuti akal. Meski kamu belum menjadi Sokrates, hiduplah seperti orang yang sedang berusaha menjadi seperti dia.
+
+### Bab LI: Urutan belajar filsafat
+
+Topik paling penting dalam filsafat adalah penerapan prinsip dalam kehidupan, misalnya "kita tidak boleh berbohong". Topik kedua adalah alasan di balik prinsip itu, misalnya "mengapa kita tidak boleh berbohong". Topik ketiga adalah logika yang memberi kekuatan pada keduanya. Namun banyak orang justru sibuk dengan topik ketiga dan mengabaikan yang pertama. Akibatnya, ketika berbohong, mereka dengan mudah menjelaskan mengapa berbohong itu salah.
+
+Epiktetos juga menyarankan agar kita selalu menyimpan kalimat-kalimat berikut dalam ingatan, seperti pegangan:
+
+- Tuntunlah aku, wahai Zeus dan Takdir, ke mana pun ketetapanmu menentukan jalanku. Aku akan mengikutinya dengan rela, dan jika aku menolak pun, aku tetap harus mengikutinya.
+- Orang yang tunduk dengan tepat pada takdir dianggap bijak oleh manusia dan memahami hukum langit.
+- Dari Sokrates: "Kalau memang para dewa menghendakinya, biarlah begitu." dan "Anytos dan Melitos boleh membunuhku, tetapi mereka tidak bisa melukai aku."
+
+---
+
+## Catatan Kaki Ringkas
+
+- **[1]** Kebahagiaan adalah buah kebajikan, dan tujuan itu sudah diberikan kepada kita. Jika kita gagal mencapainya, itu kesalahan kita sendiri, bukan kesalahan alam.
+- **[2]** Bab ini sama dengan bagian dari buku III *Diatribai* Epiktetos.
+- **[3]** Euphrates adalah filsuf dari Suriah yang dipuji oleh Pliny Muda.
+- **[4]** Eteokles dan Polyneikes, dua putra Oidipus yang saling bunuh dalam perang.
+- **[5]** Kisah seorang laki-laki yang dibunuh di jalan menuju peramal, sementara temannya meninggalkannya dan berlindung di kuil hingga akhirnya diusir oleh dewa.
+- **[6]** Zeno dari Kition (335–263 SM), pendiri aliran Stoa.
+- **[7]** Krisippos (sekitar 280–207 SM), filsuf Stoa yang karyanya sangat berpengaruh tetapi kini hilang.
+- **[8]** Kleanthes, dikutip oleh Diogenes Laertios.
+- **[9]** Euripides, fragmen karyanya.
+- **[10]** Plato, *Krito*.
+- **[11]** Plato, *Apologia*.
+
+---
+
+*Catatan penerjemah: Ini adalah ringkasan dan penjelasan bebas dalam bahasa Indonesia, bukan terjemahan kata per kata.*

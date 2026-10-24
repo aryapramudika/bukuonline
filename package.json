@@ -1,0 +1,17 @@
+{
+  "name": "bukuonline",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "buku": "node scripts/build-books.mjs",
+    "dev": "npm run buku && nuxt dev",
+    "build": "npm run buku && nuxt build",
+    "generate": "npm run buku && nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "dependencies": {
+    "better-sqlite3": "^12.11.1",
+    "docus": "latest",
+    "nuxt": "^4.4.8"
+  }
+}
