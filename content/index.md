@@ -91,3 +91,20 @@ Filsafat Konfusianisme
     :::
   ::
 ::
+
+::u-page-section
+#title
+Fiksi dan Sastra
+
+#default
+  ::card-group
+    :::card
+    ---
+    title: "Petualangan Brigadir Gerard"
+    to: /buku/fiksi-dan-sastra/gerard_id
+    icon: i-lucide-book-open
+    ---
+    Oleh Arthur Conan Doyle. Penuturan ulang delapan kisah petualangan Brigadir Etienne Gerard di masa Napoleon, lengkap dengan lampiran dan glosarium (Project Gutenberg #1644).
+    :::
+  ::
+::
