@@ -1,6 +1,7 @@
 ---
 judul: Manifesto Partai Komunis, Edisi New York 1908 (Gutenberg #31193)
 penulis: Karl Marx dan Friedrich Engels
+kategori: Politik dan Ekonomi
 urutan: 2
 deskripsi: Terjemahan bebas dengan pengantar sejarah Manifesto (Project Gutenberg #31193).
 ---

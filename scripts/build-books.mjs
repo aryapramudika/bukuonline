@@ -181,6 +181,8 @@ navigation:
 
 :u-button{label="Buka versi buku HTML (siap cetak)" icon="i-lucide-book-open" to="${base}html/${slug}.html" external target="_blank" color="neutral" variant="outline"}
 
+**Kategori:** ${meta.kategori}
+
 ${isi}`
 }
 
@@ -189,7 +191,10 @@ mkdirSync(dirKonten, { recursive: true })
 mkdirSync(dirHtml, { recursive: true })
 
 // bersihkan hasil lama (kecuali .navigation.yml)
-for (const f of readdirSync(dirKonten)) if (f.endsWith('.md')) rmSync(join(dirKonten, f))
+for (const f of readdirSync(dirKonten)) {
+  if (f === '.navigation.yml') continue
+  rmSync(join(dirKonten, f), { recursive: true, force: true })
+}
 for (const f of readdirSync(dirHtml)) if (f.endsWith('.html')) rmSync(join(dirHtml, f))
 
 const buku = readdirSync(dirSumber)
@@ -197,24 +202,50 @@ const buku = readdirSync(dirSumber)
   .map((f) => {
     const slug = basename(f, '.md')
     const { meta, body } = parseFrontMatter(readFileSync(join(dirSumber, f), 'utf8'))
-    for (const k of ['judul', 'urutan']) if (!meta[k]) throw new Error(`${f}: front matter "${k}" wajib`)
+    for (const k of ['judul', 'urutan', 'kategori']) if (!meta[k]) throw new Error(`${f}: front matter "${k}" wajib`)
     return { slug, meta, body, urutan: Number(meta.urutan) }
   })
   .sort((a, b) => a.urutan - b.urutan)
 
+const slugify = s => s.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '')
+
+// Kelompokkan per kategori; urutan kategori mengikuti buku pertamanya.
+const kategori = []
 for (const b of buku) {
-  writeFileSync(join(dirKonten, `${b.urutan}.${b.slug}.md`), halamanDocus(b.meta, b.slug, b.body))
-  writeFileSync(join(dirHtml, `${b.slug}.html`), bukuHtml(b.body, b.meta.judul))
+  const nama = b.meta.kategori
+  let k = kategori.find(x => x.nama === nama)
+  if (!k) { k = { nama, slug: slugify(nama), buku: [] }; kategori.push(k) }
+  k.buku.push(b)
+  b.kategoriSlug = k.slug
 }
 
-const kartu = buku.map(b => `  :::card
-  ---
-  title: ${JSON.stringify(b.meta.judul)}
-  to: /buku/${b.slug}
-  icon: i-lucide-book-open
-  ---
-  ${b.meta.penulis ? `Oleh ${b.meta.penulis}. ` : ''}${b.meta.deskripsi || ''}
-  :::`).join('\n\n')
+kategori.forEach((k, i) => {
+  const dir = join(dirKonten, `${i + 1}.${k.slug}`)
+  mkdirSync(dir, { recursive: true })
+  writeFileSync(join(dir, '.navigation.yml'), `title: ${JSON.stringify(k.nama)}\nicon: i-lucide-folder\n`)
+  for (const b of k.buku) writeFileSync(join(dir, `${b.urutan}.${b.slug}.md`), halamanDocus(b.meta, b.slug, b.body))
+})
+for (const b of buku) writeFileSync(join(dirHtml, `${b.slug}.html`), bukuHtml(b.body, b.meta.judul))
+
+const kartu = k => k.buku.map(b => `    :::card
+    ---
+    title: ${JSON.stringify(b.meta.judul)}
+    to: /buku/${k.slug}/${b.slug}
+    icon: i-lucide-book-open
+    ---
+    ${b.meta.penulis ? `Oleh ${b.meta.penulis}. ` : ''}${b.meta.deskripsi || ''}
+    :::`).join('\n\n')
+
+const bagianKategori = kategori.map(k => `::u-page-section
+#title
+${k.nama}
+
+#default
+  ::card-group
+${kartu(k)}
+  ::
+::
+`).join('\n')
 
 writeFileSync(join(root, 'content', 'index.md'), `---
 seo:
@@ -234,22 +265,13 @@ Kumpulan terjemahan dan penjelasan buku dalam bahasa Indonesia yang mudah dipaha
   ---
   color: neutral
   size: xl
-  to: /buku/${buku[0]?.slug ?? ''}
+  to: /buku/${buku[0].kategoriSlug}/${buku[0].slug}
   trailing-icon: i-lucide-arrow-right
   ---
   Mulai membaca
   :::
 ::
 
-::u-page-section
-#title
-Daftar buku
+${bagianKategori}`)
 
-#default
-  ::card-group
-${kartu.replace(/^/gm, '  ')}
-  ::
-::
-`)
-
-console.log(`Selesai: ${buku.length} buku -> content/1.buku, public/html`)
+console.log(`Selesai: ${buku.length} buku, ${kategori.length} kategori -> content/1.buku, public/html`)

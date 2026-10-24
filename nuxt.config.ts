@@ -5,6 +5,9 @@ export default defineNuxtConfig({
     url: process.env.NUXT_PUBLIC_SITE_URL || 'https://aryapramudika.github.io',
     name: 'Buku Online',
   },
+  robots: {
+    robotsTxt: false, // robots.txt tidak berguna di sub-path GitHub Pages
+  },
   app: {
     baseURL: process.env.NUXT_APP_BASE_URL || '/',
   },

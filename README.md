@@ -20,12 +20,15 @@ sumber/*.md  ──(scripts/build-books.mjs)──►  content/1.buku/*.md   hal
    ---
    judul: Judul Buku
    penulis: Nama Penulis
+   kategori: Nama Kategori
    urutan: 6
    deskripsi: Satu kalimat tentang buku ini.
    ---
    # Judul Buku
    ...
    ```
+
+`kategori` wajib diisi. Buku dengan kategori yang sama dikelompokkan di sidebar dan di beranda; kategori baru muncul otomatis.
 
 2. Jalankan `npm run buku` untuk membuat halaman dan versi HTML-nya.
 3. Commit dan push ke `main`. GitHub Actions akan membangun dan memublikasikan situs.

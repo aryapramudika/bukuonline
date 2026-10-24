@@ -1,6 +1,7 @@
 ---
 judul: Enchiridion (Buku Pegangan)
 penulis: Epiktetos
+kategori: Filsafat Stoa
 urutan: 3
 deskripsi: Penjelasan 53 bab Enchiridion dalam bahasa Indonesia (Project Gutenberg #45109).
 ---
