@@ -2,6 +2,7 @@
 judul: Kontrak Sosial dan Diskursus (The Social Contract & Discourses)
 penulis: Jean-Jacques Rousseau
 kategori: Politik dan Ekonomi
+gutenberg: 46333
 urutan: 7
 deskripsi: Penjelasan Kontrak Sosial (empat buku) serta tiga Diskursus Rousseau tentang ilmu pengetahuan, ketimpangan, dan ekonomi politik, lengkap dengan lampiran dan glosarium (Project Gutenberg #46333).
 ---

@@ -169,6 +169,10 @@ ${out.join('\n')}
 }
 
 // ---------- Halaman Docus ----------
+const coverPath = meta => (meta.gutenberg ? `/covers/${meta.gutenberg}.jpg` : '/covers/default.jpg')
+const attr = s => JSON.stringify(String(s ?? '').replace(/"/g, '\u201d'))
+const jsonProp = v => JSON.stringify(v).replace(/'/g, '\u2019')
+
 function halamanDocus(meta, slug, body) {
   const isi = body.replace(/^\s*# .*\n/, '').trimStart() // judul dipakai dari front matter
   const q = s => JSON.stringify(s)
@@ -179,9 +183,7 @@ navigation:
   title: ${q(meta.judul)}
 ---
 
-:u-button{label="Buka versi buku HTML (siap cetak)" icon="i-lucide-book-open" to="${base}html/${slug}.html" external target="_blank" color="neutral" variant="outline"}
-
-**Kategori:** ${meta.kategori}
+:book-header{cover="${coverPath(meta)}" author=${q(meta.penulis || '')} category=${q(meta.kategori)} html="/html/${slug}.html" gutenberg="${meta.gutenberg || ''}"}
 
 ${isi}`
 }
@@ -227,25 +229,32 @@ kategori.forEach((k, i) => {
 })
 for (const b of buku) writeFileSync(join(dirHtml, `${b.slug}.html`), bukuHtml(b.body, b.meta.judul))
 
-const kartu = k => k.buku.map(b => `    :::card
-    ---
-    title: ${JSON.stringify(b.meta.judul)}
-    to: /buku/${k.slug}/${b.slug}
-    icon: i-lucide-book-open
-    ---
-    ${b.meta.penulis ? `Oleh ${b.meta.penulis}. ` : ''}${b.meta.deskripsi || ''}
+const rutePath = (k, b) => `/buku/${k.slug}/${b.slug}`
+const kartu = k => k.buku.map(b => `    :::book-card{title=${attr(b.meta.judul)} author=${attr(b.meta.penulis)} cover=${attr(coverPath(b.meta))} to=${attr(rutePath(k, b))} desc=${attr(b.meta.deskripsi)}}
     :::`).join('\n\n')
 
-const bagianKategori = kategori.map(k => `::u-page-section
+const bagianKategori = kategori.map(k => `::u-page-section{id="${k.slug}"}
 #title
 ${k.nama}
 
+#description
+${k.buku.length} buku
+
 #default
-  ::card-group
+  ::book-grid
 ${kartu(k)}
   ::
 ::
 `).join('\n')
+
+const semuaBuku = kategori.flatMap(k => k.buku.map(b => ({ b, k })))
+const hero = {
+  books: semuaBuku.map(({ b, k }) => ({ cover: coverPath(b.meta), to: rutePath(k, b), title: b.meta.judul })),
+  stats: [
+    { label: 'Buku', value: buku.length },
+    { label: 'Kategori', value: kategori.length },
+  ],
+}
 
 writeFileSync(join(root, 'content', 'index.md'), `---
 seo:
@@ -253,23 +262,9 @@ seo:
   description: Kumpulan terjemahan dan penjelasan buku dalam bahasa Indonesia.
 ---
 
-::u-page-hero
-#title
-Buku Online
+:book-hero{title="Buku Online" description="Kumpulan terjemahan dan penjelasan buku dalam bahasa Indonesia yang mudah dipahami." start-to="${rutePath(kategori[0], buku[0])}" :books='${jsonProp(hero.books)}' :stats='${jsonProp(hero.stats)}'}
 
-#description
-Kumpulan terjemahan dan penjelasan buku dalam bahasa Indonesia yang mudah dipahami.
-
-#links
-  :::u-button
-  ---
-  color: neutral
-  size: xl
-  to: /buku/${buku[0].kategoriSlug}/${buku[0].slug}
-  trailing-icon: i-lucide-arrow-right
-  ---
-  Mulai membaca
-  :::
+::div{id="daftar-buku"}
 ::
 
 ${bagianKategori}`)

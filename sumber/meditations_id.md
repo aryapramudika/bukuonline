@@ -2,6 +2,7 @@
 judul: Meditasi
 penulis: Marcus Aurelius
 kategori: Filsafat Stoa
+gutenberg: 2680
 urutan: 4
 deskripsi: Penjelasan dua belas buku Meditasi, lengkap dengan lampiran dan glosarium (Project Gutenberg #2680).
 ---

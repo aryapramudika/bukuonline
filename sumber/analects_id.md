@@ -2,6 +2,7 @@
 judul: Analects (Lunyu)
 penulis: Konfusius
 kategori: Filsafat Konfusianisme
+gutenberg: 3330
 urutan: 5
 deskripsi: Penjelasan dua puluh buku Analects, lengkap dengan lampiran dan glosarium (Project Gutenberg #3330).
 ---

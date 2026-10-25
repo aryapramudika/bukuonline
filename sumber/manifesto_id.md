@@ -1,7 +1,8 @@
 ---
-judul: Manifesto Partai Komunis (Gutenberg #61)
+judul: Manifesto Partai Komunis (Edisi 1888)
 penulis: Karl Marx dan Friedrich Engels
 kategori: Politik dan Ekonomi
+gutenberg: 61
 urutan: 1
 deskripsi: Terjemahan bebas yang disederhanakan dari edisi Inggris 1888 (Project Gutenberg #61).
 ---

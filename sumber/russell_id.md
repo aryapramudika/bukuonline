@@ -2,6 +2,7 @@
 judul: Masalah-masalah Filsafat (The Problems of Philosophy)
 penulis: Bertrand Russell
 kategori: Filsafat Modern
+gutenberg: 5827
 urutan: 9
 deskripsi: Penjelasan lima belas bab The Problems of Philosophy, pengantar Russell tentang teori pengetahuan, lengkap dengan lampiran dan glosarium (Project Gutenberg #5827).
 ---

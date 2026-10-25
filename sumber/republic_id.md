@@ -2,6 +2,7 @@
 judul: Republik (The Republic)
 penulis: Plato
 kategori: Filsafat Yunani Klasik
+gutenberg: 1497
 urutan: 6
 deskripsi: Penjelasan sepuluh buku Republik Plato tentang keadilan, negara ideal, dan jiwa, lengkap dengan lampiran dan glosarium (Project Gutenberg #1497).
 ---

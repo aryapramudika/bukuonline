@@ -2,6 +2,7 @@
 judul: Di Seberang Baik dan Jahat (Beyond Good and Evil)
 penulis: Friedrich Nietzsche
 kategori: Filsafat Modern
+gutenberg: 4363
 urutan: 8
 deskripsi: Penjelasan sembilan bagian Beyond Good and Evil, kritik Nietzsche atas prasangka para filsuf dan moralitas, lengkap dengan lampiran dan glosarium (Project Gutenberg #4363).
 ---
