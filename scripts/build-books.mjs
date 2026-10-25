@@ -247,9 +247,11 @@ ${kartu(k)}
 ::
 `).join('\n')
 
+const pilihMerata = (arr, n) => (arr.length <= n ? arr : Array.from({ length: n }, (_, i) => arr[Math.round((i * (arr.length - 1)) / (n - 1))]))
 const semuaBuku = kategori.flatMap(k => k.buku.map(b => ({ b, k })))
 const hero = {
-  books: semuaBuku.map(({ b, k }) => ({ cover: coverPath(b.meta), to: rutePath(k, b), title: b.meta.judul })),
+  // Rak hero maksimal 10 sampul, dipilih merata dari seluruh daftar agar tidak melebar.
+  books: pilihMerata(semuaBuku, 10).map(({ b, k }) => ({ cover: coverPath(b.meta), to: rutePath(k, b), title: b.meta.judul })),
   stats: [
     { label: 'Buku', value: buku.length },
     { label: 'Kategori', value: kategori.length },

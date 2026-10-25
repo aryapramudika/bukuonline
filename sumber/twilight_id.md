@@ -1,0 +1,143 @@
+---
+judul: Senjakala Berhala dan Sang Antikris (Twilight of the Idols, The Antichrist)
+penulis: Friedrich Nietzsche
+kategori: Filsafat Modern
+gutenberg: 52263
+urutan: 19
+deskripsi: Penjelasan Twilight of the Idols dan The Antichrist karya Nietzsche, kritik terhadap filsafat dan agama Kristen, lengkap dengan lampiran dan glosarium (Project Gutenberg #52263).
+---
+# Senjakala Berhala dan Sang Antikris (Twilight of the Idols, The Antichrist) — Friedrich Nietzsche
+
+**Penulis asli:** Friedrich Nietzsche (ditulis 1888, terbit 1889 dan 1895)
+**Sumber teks:** Project Gutenberg eBook #52263 (terjemahan Inggris Anthony M. Ludovici, *The Complete Works of Friedrich Nietzsche*, jilid 16, 1911)
+
+> Dokumen ini adalah **penjelasan dalam bahasa Indonesia dengan kata-kata sendiri**, bukan terjemahan kalimat per kalimat. Urutan bagian dan alur gagasan dipertahankan. Untuk kutipan resmi atau kajian akademik, rujuklah teks Jerman atau terjemahan ilmiah yang diakui.
+
+---
+
+## Pengantar
+
+### Isi volume ini
+
+Volume ini menghimpun tiga bagian:
+
+1. ***Twilight of the Idols; or, How to Philosophize with the Hammer*** (*Senjakala Berhala, atau Cara Berfilsafat dengan Palu*), ditulis cepat pada akhir musim panas 1888 di Sils Maria.
+2. ***The Antichrist*** (*Sang Antikris*), kritik tajam terhadap agama Kristen.
+3. **Catatan tentang kembalinya yang sama dan *Zarathustra***, sebagai lampiran penerjemah.
+
+### Tentang *Twilight of the Idols*
+
+Menurut penerjemah, buku ini ditulis hanya dalam beberapa hari. Judul awalnya adalah "Waktu Luang Seorang Psikolog". Nietzsche sendiri, dalam *Ecce Homo*, mengatakan bahwa bagi yang ingin cepat melihat bagaimana segalanya sebelum zamannya "berdiri terbalik", buku inilah tempat memulai. Yang disebut "berhala" di sini adalah **kebenaran lama yang selama ini dipercaya**, dan "senjakala" berarti kebenaran lama itu sudah di ujung hayatnya. "Palu" dipakai sebagai alat untuk memukul berhala dan mendengar apakah ia berongga.
+
+Penerjemah mencatat bahwa buku ini tidak mudah. Gagasan Nietzsche padat dan membutuhkan pembaca yang sudah terbiasa dengan persoalan sukar.
+
+### Gagasan pokok
+
+- **Kritik atas "dunia sejati":** filsafat dan agama selama ribuan tahun membangun dunia ideal yang merendahkan dunia nyata.
+- **Moralitas sebagai musuh alam:** moralitas yang memusuhi naluri dan hasrat disebut tidak alami.
+- **Kritik atas Sokrates dan Plato:** rasionalitas ekstrem sebagai gejala kemerosotan.
+- **Kritik atas Kristen:** agama yang menurut Nietzsche mengagungkan kelemahan dan memusuhi kehidupan.
+
+---
+
+## Penjelasan per Bagian
+
+### Twilight of the Idols
+
+**Kata pengantar.** Nietzsche membuka dengan suasana hati: tetap ceria setelah pekerjaan berat dan berbahaya, yaitu menilai ulang semua nilai. Ia mengatakan bahwa ia memakai "palu" untuk menguji berhala, dan bunyinya berongga.
+
+**Pepatah dan Peluru (Maxims and Missiles).** Kumpulan aforisme pendek dan tajam tentang seni, manusia, dan kehidupan. Salah satu yang terkenal menyatakan bahwa apa yang tidak membunuh kita membuat kita lebih kuat.
+
+**Masalah Sokrates.** Nietzsche bertanya: apa arti Sokrates bagi kebudayaan Yunani? Ia menyatakan bahwa orang-orang bijak di segala zaman menilai hidup tidak bernilai, dan Sokrates pun, di ranjang kematiannya, dikatakan berkata bahwa ia berutang seekor ayam kepada Asklepios, dewa penyembuhan, yang menurut Nietzsche menandakan bahwa hidup baginya adalah penyakit. Sokrates dianggap gejala kemerosotan: dialektika sebagai senjata orang yang tidak punya senjata lain, dan penyamaan **akal = kebajikan = kebahagiaan** sebagai upaya melawan naluri yang kacau dengan menjadikan akal sebagai tiran.
+
+**"Akal" dalam filsafat.** Para filsuf, kata Nietzsche, **membenci gagasan menjadi** (perubahan) dan memuja yang tetap. Mereka merendahkan indra sebagai penipu dan menciptakan "dunia sejati" di balik dunia tampak. Heraklitos, yang percaya pada menjadi, adalah pengecualian. Nietzsche juga menyebut bahwa tata bahasa membuat kita percaya pada "pelaku" dan "diri". Bagian ini ditutup dengan riwayat singkat enam tahap bagaimana "dunia sejati" akhirnya menjadi dongeng: dari dunia yang dapat dicapai oleh orang bijak, menjadi janji, menjadi tak terjangkau, menjadi dipertanyakan, menjadi tidak berguna, lalu dihapus.
+
+**Moralitas sebagai musuh alam.** Nietzsche mengkritik pendekatan agama yang memusnahkan nafsu, seperti memotong gigi yang sakit alih-alih mengobatinya. Moralitas yang memusuhi kehidupan menjadi tanda lemahnya naluri.
+
+**Empat kesalahan besar.** Ia membongkar empat kekeliruan dasar dalam cara kita memahami sebab: tertukarnya sebab dan akibat, keliru memahami sebab (kausalitas palsu), sebab khayalan (misalnya "kehendak", "roh"), dan **kehendak bebas**, yang menurutnya ditemukan untuk membuat orang dapat dihukum.
+
+**Para "pemerbaik" umat manusia.** Dengan membandingkan Kitab Hukum Manu dan Kristen, Nietzsche menyoroti bahwa "memperbaiki" manusia bisa berarti **menjinakkan** atau **membiakkan**, dan bahwa banyak "perbaikan" agama sebenarnya melemahkan.
+
+**Yang kurang pada orang Jerman.** Kritik terhadap budaya dan pendidikan Jerman pada zamannya, yang menurutnya kehilangan tujuan, gaya, dan ketegasan.
+
+**Pertempuran kecil dalam perang melawan zaman.** Kumpulan serangan terhadap tokoh dan gagasan zamannya, seperti Rousseau, Kant, Schiller, George Eliot, dan Carlyle. Nietzsche menolak moralitas "kembali ke alam" yang dikaitkan dengan Rousseau, dan meremehkan kesetaraan sebagai sumber ketidakadilan.
+
+**Apa yang kuhutang pada orang Yunani kuno.** Ia mengaku mengagumi Thukydides dan memandang bangsa Yunani, terutama lewat pengalaman **Dionysian**, sebagai bangsa yang menjawab hidup dengan penerimaan penuh, termasuk penderitaannya.
+
+### The Antichrist
+
+Buku ini adalah serangan tajam Nietzsche terhadap Kristen. Pokok-pokok yang ia ajukan:
+
+- **Kebajikan menurutnya adalah rasa kekuatan, dan keburukan adalah kelemahan.** Rasa kasihan sebagai pusat moral Kristen ia anggap melemahkan, karena menggandakan penderitaan dan menjaga yang lemah dengan merugikan yang kuat.
+- **Imam dan agama:** para imam menggunakan konsep seperti dosa, pengampunan, dan akhirat untuk menguasai manusia. Menurutnya, Tuhan Kristen adalah Tuhan orang sakit.
+- **Yesus:** Nietzsche membedakan Yesus sebagai pribadi dari Kristen kemudian. Ia menggambarkan Yesus sebagai sosok yang hidup dalam kedamaian batin tanpa permusuhan, dan menyatakan bahwa "satu-satunya orang Kristen sejati mati di kayu salib". Ajaran para pengikutnya, terutama **Paulus**, dituduh membalik pesan itu menjadi sistem kuasa.
+- **Perbandingan dengan Hukum Manu dan agama lain:** Nietzsche memuji agama yang menyatakan "Ya" terhadap kehidupan.
+- **Penutup:** bagian akhir memuat "Hukum terhadap Kristen" yang berisi serangkaian kalimat keras dan menyatakan bahwa penanggalan harus dimulai dari hari pertama kalender Kristen dihapus.
+
+Pembaca perlu mengingat bahwa tulisan ini adalah polemik dengan bahasa ekstrem dan ditulis di tahun terakhir kesadaran penulisnya sebelum jatuh sakit pada Januari 1889.
+
+### Kembalinya yang Sama dan Catatan *Zarathustra*
+
+Bagian tambahan dalam volume ini memuat catatan Anthony Ludovici tentang gagasan **kembalinya yang sama** dan catatan atas beberapa bab *Thus Spake Zarathustra*, untuk membantu pembaca memahami pemikiran Nietzsche secara menyeluruh.
+
+---
+
+## Lampiran (Appendix)
+
+### A. Struktur *Twilight of the Idols*
+
+| Bagian | Pokok bahasan |
+|---|---|
+| Pengantar penerjemah dan Kata Pengantar | Latar penulisan dan maksud buku |
+| Pepatah dan Peluru | Aforisme |
+| Masalah Sokrates | Sokrates sebagai gejala kemerosotan |
+| "Akal" dalam Filsafat | Kritik atas "dunia sejati" |
+| Moralitas sebagai Musuh Alam | Kritik atas moral yang menolak naluri |
+| Empat Kesalahan Besar | Kritik atas kausalitas dan kehendak bebas |
+| Para "Pemerbaik" Umat Manusia | Menjinakkan dan membiakkan |
+| Yang Kurang pada Orang Jerman | Kritik budaya |
+| Pertempuran Kecil | Serangan terhadap tokoh zamannya |
+| Yang Kuhutang pada Orang Yunani Kuno | Penghargaan pada Thukydides dan Dionysian |
+
+### B. Enam tahap "dunia sejati" menjadi dongeng
+
+1. Dunia sejati dapat dicapai oleh orang bijak dan saleh.
+2. Dunia sejati belum dapat dicapai, tetapi dijanjikan.
+3. Dunia sejati tak dapat dicapai atau dibuktikan, namun menjadi penghibur dan kewajiban.
+4. Dunia sejati tidak dikenal, jadi juga tidak menghibur dan tidak mewajibkan.
+5. Dunia sejati menjadi gagasan yang tidak berguna, lalu dihapus.
+6. Dengan dunia sejati dihapus, dunia tampak pun ikut dihapus, dan tersisa dunia yang satu-satunya.
+
+### C. Catatan tentang sumber
+
+- Edisi Gutenberg ini adalah terjemahan Ludovici tahun 1911 yang disunting Oscar Levy. Beberapa istilahnya bergaya lama.
+- *The Antichrist* sangat keras dan polemis. Dokumen ini hanya menjelaskan isinya, tidak menilai kebenarannya.
+- Nietzsche mengalami keruntuhan mental pada Januari 1889, tidak lama setelah menyelesaikan karya-karya ini, dan wafat pada 1900.
+
+---
+
+## Glosarium
+
+**Berhala (idol):** keyakinan lama yang dipuja tanpa diuji. Dalam judul buku ini, sasaran "palu" Nietzsche.
+
+**Dunia sejati:** gagasan filsafat dan agama tentang dunia lain yang lebih nyata dan lebih baik dari dunia yang kita alami.
+
+**Dionysian:** sikap menerima hidup sepenuhnya, termasuk penderitaan dan kegembiraan, dari dewa Dionysos.
+
+**Dialektika:** seni berdebat dengan tanya-jawab. Nietzsche menilainya senjata orang yang tidak punya senjata lain.
+
+**Dekadensi:** kemerosotan naluri dan tenaga hidup.
+
+**Transvaluasi semua nilai:** penilaian ulang menyeluruh atas nilai-nilai yang berlaku.
+
+**Hukum Manu:** kitab hukum India kuno yang dipakai Nietzsche sebagai pembanding dengan Kristen.
+
+**Kasihan (Mitleid):** perasaan iba yang dikritik Nietzsche karena dianggap melemahkan.
+
+**Kembalinya yang sama:** gagasan bahwa hidup berulang persis sama, sebagai ujian bagi sikap kita terhadap hidup.
+
+**Sils Maria:** desa di Swiss tempat Nietzsche menghabiskan banyak musim panasnya dan menyelesaikan buku ini.
+
+---
+
+*Catatan penerjemah: Ini adalah penjelasan bebas dalam bahasa Indonesia, disusun dengan kata-kata sendiri. Bukan terjemahan kalimat per kalimat.*

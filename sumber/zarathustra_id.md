@@ -1,0 +1,143 @@
+---
+judul: Demikianlah Sabda Zarathustra (Thus Spake Zarathustra)
+penulis: Friedrich Nietzsche
+kategori: Filsafat Modern
+gutenberg: 1998
+urutan: 15
+deskripsi: Penjelasan empat bagian Zarathustra karya Nietzsche, dengan gagasan Manusia Unggul, kehendak berkuasa, dan kembalinya yang sama, lengkap dengan lampiran dan glosarium (Project Gutenberg #1998).
+---
+# Demikianlah Sabda Zarathustra (Thus Spake Zarathustra) — Friedrich Nietzsche
+
+**Penulis asli:** Friedrich Nietzsche (ditulis 1883–1885)
+**Sumber teks:** Project Gutenberg eBook #1998 (terjemahan Inggris Thomas Common, dengan pengantar oleh adik Nietzsche, Elisabeth Förster-Nietzsche, dan catatan Anthony M. Ludovici)
+
+> Dokumen ini adalah **penjelasan dalam bahasa Indonesia dengan kata-kata sendiri**, bukan terjemahan kalimat per kalimat. Struktur empat bagian dan gagasan tiap pidato dipertahankan. Untuk kutipan resmi atau kajian akademik, rujuklah teks Jerman atau terjemahan ilmiah yang diakui.
+
+---
+
+## Pengantar
+
+### Apa itu Zarathustra?
+
+*Thus Spake Zarathustra* (Jerman: *Also sprach Zarathustra*) adalah karya yang oleh Nietzsche sendiri dianggap sebagai pemberian terbesarnya bagi umat manusia. Subjudulnya, **"Sebuah Buku untuk Semua dan Tak Seorang Pun"**, menunjukkan bahwa buku ini terbuka bagi semua orang, tetapi hanya sedikit yang benar-benar memahaminya.
+
+Bentuknya bukan risalah filsafat biasa, melainkan **puisi prosa** dengan nada kitab suci, perumpamaan, nyanyian, dan alur cerita. Tokoh utamanya, Zarathustra, adalah seorang nabi yang namanya dipinjam dari Zarathustra (Zoroaster) dari Persia kuno, tetapi dalam buku ini ia membawa pesan yang justru membalik moralitas lama.
+
+Edisi Gutenberg memuat **80 pidato** (bab) dalam empat bagian, ditambah lampiran berupa catatan dari penerjemah Ludovici dan pengantar dari adik Nietzsche.
+
+### Gagasan pokok
+
+- **Tuhan telah mati:** keyakinan lama yang menjadi dasar nilai-nilai Eropa tidak lagi bisa dipertahankan.
+- **Manusia Unggul (Übermensch):** manusia adalah sesuatu yang harus diatasi, dan tujuan manusia adalah melahirkan yang melampaui dirinya.
+- **Kehendak untuk berkuasa:** dorongan mendasar kehidupan untuk tumbuh, mengatasi diri, dan menciptakan.
+- **Kembalinya yang sama (eternal recurrence):** ujian terbesar. Bisakah kita menginginkan hidup ini kembali berulang selamanya?
+- **Setia pada bumi:** nilai manusia terletak pada hidup di dunia ini, bukan "dunia lain".
+
+---
+
+## Penjelasan per Bagian
+
+### Prolog Zarathustra
+
+Pada umur tiga puluh, Zarathustra meninggalkan kampung halaman dan menyendiri di pegunungan selama sepuluh tahun. Suatu pagi ia berbicara kepada matahari: ia merasa kelimpahannya terlalu banyak, seperti lebah yang kelebihan madu, dan ia ingin membagikannya. Ia turun ke manusia.
+
+Di hutan ia bertemu seorang pertapa tua yang masih memuja Tuhan. Zarathustra heran: *orang tua ini belum mendengar bahwa Tuhan telah mati.* Di kota, ia berbicara kepada kerumunan yang menunggu seorang penari tali. Ia menyampaikan inti ajarannya: **manusia adalah tali yang direntangkan antara binatang dan Manusia Unggul**, jembatan dan bukan tujuan. Ia juga memperingatkan tentang **manusia terakhir** yang hanya menginginkan kenyamanan dan berkata, "Kami telah menemukan kebahagiaan," sambil berkedip. Kerumunan justru menginginkan manusia terakhir. Ketika sang penari tali jatuh dan wafat, Zarathustra mengangkat jenazahnya dan memutuskan mencari teman, bukan pengikut.
+
+### Bagian Pertama (Pidato 1–22)
+
+Bagian ini berisi pidato tentang bagaimana manusia harus hidup.
+
+- **Tiga metamorfosis:** roh menjadi **unta** yang memikul beban, lalu **singa** yang berkata "Tidak" dan merebut kebebasan, lalu **anak** yang polos dan memulai kembali, mencipta nilai baru.
+- **Mimbar kebajikan, dunia-balik, dan para penghina tubuh:** Zarathustra mengkritik mereka yang mengajarkan dunia lain dan merendahkan tubuh. Menurutnya tubuh adalah akal yang lebih besar daripada roh.
+- **Nafsu dan gairah, penjahat pucat, membaca dan menulis:** pidato tentang menjadikan hasrat sebagai kekuatan, bukan musuh, tentang kegelisahan batin, dan tentang menulis dengan darah.
+- **Berhala baru:** negara disebut sebagai "monster paling dingin" yang berbohong bahwa ia adalah rakyat.
+- **Lalat-lalat di pasar, sahabat, seribu satu tujuan:** manusia menciptakan nilai berbeda di setiap bangsa, dan belum ada satu tujuan bersama bagi seluruh manusia.
+- **Cinta sesama, jalan si pencipta, kebajikan yang memberi:** Zarathustra mengajak manusia mencintai yang jauh dan yang akan datang, dan menyebut kebajikan tertinggi sebagai kebajikan yang memberi, seperti emas yang bersinar.
+
+### Bagian Kedua (Pidato 23–44)
+
+Zarathustra kembali ke pegunungan, lalu turun lagi setelah mimpi tentang cermin yang memperlihatkan wajah setan.
+
+- **Di Pulau Kebahagiaan:** Tuhan adalah dugaan, dan dugaan tidak boleh melampaui kehendak mencipta. Jika ada tuhan, bagaimana kita menahan diri dari menjadi tuhan sendiri?
+- **Yang berbelas kasih, para imam, dan kaum berbudi:** kritik terhadap rasa kasihan, ketaatan agama, dan kebajikan yang mengejar pahala.
+- **Rakyat jelata dan tarantula:** peringatan terhadap khotbah kesetaraan yang bersumber dari dendam, digambarkan seperti laba-laba yang memutar jaring balas dendam.
+- **Mengatasi diri:** pidato tentang **kehendak untuk berkuasa**. Hidup adalah apa yang selalu harus mengatasi dirinya sendiri.
+- **Negeri budaya, ilmuwan, dan penyair:** sindiran terhadap budaya yang penuh kutipan dan sarjana yang pasif.
+- **Penebusan:** manusia adalah penderita karena tidak bisa menghendaki ke belakang, ke "yang telah terjadi". Penebusan adalah mengubah setiap "begitulah adanya" menjadi "begitulah aku menghendakinya".
+- **Jam paling sunyi:** suara tanpa kata memerintah Zarathustra mengucapkan ajarannya yang paling berat, yang ia belum berani.
+
+### Bagian Ketiga (Pidato 45–60)
+
+Bagian ini berisi inti ajaran **kembalinya yang sama**.
+
+- **Pengembara:** Zarathustra berlayar dan merenung sendirian.
+- **Penglihatan dan teka-teki:** di sebuah gerbang bernama "Saat Ini", dua jalan panjang bertemu. Roh Gravitasi mengejeknya bahwa semua yang lurus berbohong dan waktu itu melingkar. Ia kemudian melihat seorang gembala yang tercekik ular hitam. Gembala menggigit kepala ular itu dan meludahkannya, lalu berdiri tertawa seperti bukan manusia lagi.
+- **Roh Gravitasi, tablet lama dan baru:** daftar panjang pesan penting, termasuk menghancurkan tablet nilai lama dan menulis yang baru.
+- **Si Penyembuh:** Zarathustra jatuh sakit karena beratnya gagasan itu. Hewan-hewannya, elang dan ular, menghiburnya dan menyanyikan bahwa semua berulang dan berputar dalam lingkaran.
+- **Kerinduan Besar, Nyanyian Tari Kedua, dan Tujuh Meterai:** nyanyian cinta untuk Kehidupan dan Keabadian, diakhiri dengan seruan: "Karena aku mencintaimu, wahai Keabadian."
+
+### Bagian Keempat dan Terakhir (Pidato 61–80)
+
+Bagian ini ditambahkan belakangan dan lebih bernada cerita. Zarathustra yang sudah tua menunggu di guanya. Sebuah **seruan minta tolong** membuatnya bertemu berbagai "manusia lebih tinggi": dua raja, orang yang tahu tentang lintah, penyihir tua, imam terakhir, orang paling jelek (pembunuh Tuhan), pengemis sukarela, dan bayangan Zarathustra sendiri. Semuanya adalah gambaran manusia yang terjebak di antara dunia lama dan baru.
+
+Zarathustra menjamu mereka di gua dan berbicara tentang **manusia lebih tinggi**, mengingatkan bahwa mereka belum cukup tinggi dan bahwa belum waktunya. Pesta berubah menjadi aneh: mereka menyembah seekor keledai dalam "Pesta Keledai", suatu ejekan terhadap agama. Pada akhirnya Zarathustra menyanyikan **Nyanyian Mabuk** tentang tengah malam: kegembiraan lebih dalam daripada derita, dan kegembiraan menginginkan keabadian.
+
+Pada bab terakhir, **Tanda**, Zarathustra terbangun dan melihat seekor singa yang tertawa dengan merpati di sekitarnya. Ia mengerti bahwa waktunya sudah tiba, bahwa rasa kasihannya kepada manusia lebih tinggi adalah godaan terakhir, lalu ia meninggalkan gua untuk memulai "pagi dan hari besar".
+
+---
+
+## Lampiran (Appendix)
+
+### A. Struktur karya
+
+| Bagian | Pidato | Fokus |
+|---|---|---|
+| Prolog | 1 | Zarathustra turun, kematian Tuhan, Manusia Unggul, manusia terakhir |
+| I | 1–22 | Tiga metamorfosis, kritik atas dunia lain, negara, cinta sesama, kebajikan yang memberi |
+| II | 23–44 | Kehendak berkuasa, kritik atas kasihan, penebusan |
+| III | 45–60 | Kembalinya yang sama, tablet nilai, penyembuhan |
+| IV | 61–80 | Manusia lebih tinggi, pesta, tanda akhir |
+
+### B. Tiga metamorfosis roh
+
+| Tahap | Lambang | Makna |
+|---|---|---|
+| 1 | Unta | Memikul beban dan kewajiban |
+| 2 | Singa | Berkata "Tidak", merebut kebebasan |
+| 3 | Anak | Awal baru, permainan, mencipta nilai |
+
+### C. Catatan tentang sumber
+
+- Edisi ini memakai terjemahan Thomas Common. Ejaan dan tanda baca lama tetap dipertahankan sesuai catatan editor Gutenberg.
+- Pengantar dalam edisi ini ditulis oleh Elisabeth Förster-Nietzsche, adik Nietzsche. Pembaca modern perlu mencatat bahwa ia kemudian dikenal membentuk citra Nietzsche sesuai pandangannya sendiri.
+- Buku ini penuh gaya sastra dan kiasan. Banyak pidato harus dibaca sebagai puisi dan perumpamaan, bukan argumen logis.
+
+---
+
+## Glosarium
+
+**Übermensch (Manusia Unggul):** manusia yang melampaui manusia sekarang, penciptanya nilai-nilai baru dan setia pada bumi.
+
+**Manusia terakhir:** lawan dari Manusia Unggul, yaitu manusia yang hanya mengejar kenyamanan dan tidak lagi mau menciptakan.
+
+**Kehendak untuk berkuasa (Wille zur Macht):** dorongan dasar kehidupan untuk tumbuh, menguasai diri, dan mengatasi.
+
+**Kembalinya yang sama (ewige Wiederkunft):** gagasan bahwa hidup berulang persis sama selamanya, sebagai ujian atas sikap kita terhadap hidup.
+
+**Tuhan telah mati:** pernyataan bahwa keyakinan akan Tuhan tidak lagi menopang nilai-nilai budaya Eropa.
+
+**Roh Gravitasi:** roh yang menarik manusia ke bawah, membuat segala hal terasa berat dan pasti.
+
+**Dunia-balik (Hinterwelt):** dunia lain di balik dunia ini yang diciptakan agama dan filsafat untuk menolak bumi.
+
+**Tablet nilai:** daftar apa yang baik dan jahat yang dimiliki setiap bangsa.
+
+**Transvaluasi:** penilaian ulang semua nilai.
+
+**Amor fati:** mencintai nasib, yaitu menerima dan menginginkan segala yang terjadi. Istilah ini tidak muncul dalam buku ini, tetapi sering dipakai untuk menjelaskan sikap yang dituntut oleh gagasan kembalinya yang sama.
+
+**Zarathustra (Zoroaster):** nabi Persia kuno yang namanya dipakai Nietzsche untuk tokoh utamanya.
+
+---
+
+*Catatan penerjemah: Ini adalah penjelasan bebas dalam bahasa Indonesia, disusun dengan kata-kata sendiri. Bukan terjemahan kalimat per kalimat.*

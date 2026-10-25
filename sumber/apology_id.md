@@ -1,0 +1,118 @@
+---
+judul: Pembelaan Sokrates (Apology)
+penulis: Plato
+kategori: Filsafat Yunani Klasik
+gutenberg: 1656
+urutan: 11
+deskripsi: Penjelasan Apology Plato, pidato pembelaan Sokrates di pengadilan Athena, lengkap dengan lampiran dan glosarium (Project Gutenberg #1656).
+---
+# Pembelaan Sokrates (Apology) — Plato
+
+**Penulis asli:** Plato (sekitar 428–348 SM), ditulis setelah pengadilan Sokrates tahun 399 SM
+**Sumber teks:** Project Gutenberg eBook #1656 (terjemahan Inggris Benjamin Jowett, dengan pengantar)
+
+> Dokumen ini adalah **penjelasan dalam bahasa Indonesia dengan kata-kata sendiri**, bukan terjemahan kalimat per kalimat. Alur tiga bagian pidato dipertahankan. Untuk kutipan resmi atau kajian akademik, rujuklah teks Yunani atau terjemahan ilmiah yang diakui.
+
+---
+
+## Pengantar
+
+### Apa itu Apology?
+
+Kata Yunani *apologia* berarti pembelaan, bukan permintaan maaf. Karya ini adalah versi Plato atas pidato pembelaan gurunya, **Sokrates**, di hadapan juri Athena pada tahun 399 SM. Sokrates dituduh merusak anak muda dan tidak percaya pada dewa-dewa kota. Ia dijatuhi hukuman mati.
+
+Pengantar Jowett mengingatkan bahwa kita tidak bisa memastikan seberapa dekat teks ini dengan kata-kata Sokrates yang sebenarnya. Yang jelas, ia sesuai dengan sosok Sokrates seperti yang digambarkan penulis lain, seperti Xenophon, dan merupakan potret Sokrates dalam saat terbesarnya: lemah di hadapan hukum, tetapi tak terkalahkan secara moral. Menurut Jowett, ini lebih merupakan karya seni Plato daripada laporan harfiah.
+
+### Struktur
+
+Pidato terdiri dari tiga bagian:
+
+1. **Pembelaan utama** terhadap tuduhan.
+2. **Pidato singkat tentang hukuman** setelah vonis bersalah.
+3. **Kata-kata terakhir** setelah dijatuhi hukuman mati.
+
+---
+
+## Isi Pidato
+
+### Bagian pertama: Pembelaan
+
+**Pembukaan.** Sokrates minta maaf bila gaya bicaranya tidak seperti orator, karena ia hanya terbiasa berbicara apa adanya, seperti di pasar. Ia tidak punya "retorika" selain kebenaran.
+
+**Dua kelompok penuduh.** Ada penuduh lama yang tak bernama, yaitu opini umum yang sudah bertahun-tahun mengatakan bahwa Sokrates mengajarkan hal-hal aneh tentang langit dan bumi serta membuat argumen lemah tampak kuat (termasuk lewat sandiwara *Awan* karya Aristophanes). Ada pula penuduh resmi: Meletos, Anytos, dan Lykon.
+
+**Asal reputasinya.** Sahabat Sokrates, Chairephon, pernah bertanya kepada **orakel Delphi** apakah ada orang yang lebih bijak daripada Sokrates. Orakel menjawab tidak ada. Sokrates bingung, karena ia merasa tidak tahu apa-apa. Untuk mengujinya, ia mendatangi orang-orang yang dianggap bijak: politisi, penyair, dan pengrajin. Ia menyimpulkan bahwa mereka merasa tahu padahal tidak, dan dirinya hanya lebih bijak dalam satu hal: **ia tahu bahwa ia tidak tahu**. Dari kegiatan menguji orang inilah kebencian tumbuh.
+
+**Pemeriksaan Meletos.** Sokrates menanyai Meletos. Jika ia merusak pemuda, siapa yang memperbaiki mereka? Meletos tak mampu menjawab dengan baik. Sokrates juga menunjukkan bahwa tuduhan "tidak percaya pada dewa" bertentangan dengan tuduhan bahwa ia memperkenalkan "makhluk ilahi baru". Ia juga menyebut bahwa kalau ia merusak seseorang dengan sengaja, ia akan dirugikan oleh orang itu, jadi masuk akal bila ia melakukannya karena tidak sengaja, dan itu soal mendidik, bukan menghukum.
+
+**Misi hidupnya.** Sokrates menyatakan bahwa ia diutus dewa seperti seekor lalat pengganggu bagi kuda besar yang malas, yaitu kota Athena. Ia tidak akan berhenti menasihati orang untuk memperhatikan **kebajikan dan jiwa** mereka, bukan harta dan nama baik. Ia juga menceritakan **daimonion**, suara ilahi dalam dirinya yang hanya melarang, tidak pernah menyuruh, dan yang menjauhkannya dari politik.
+
+Ia menolak memohon belas kasihan dengan membawa anak-anaknya dan menangis di hadapan juri, karena itu tidak pantas bagi hakim maupun bagi dirinya. Seorang hakim harus memutus sesuai hukum, bukan karena rasa kasihan.
+
+### Bagian kedua: Pidato tentang hukuman
+
+Juri menyatakan Sokrates bersalah dengan selisih suara yang tipis. Menurut hukum Athena, terdakwa bisa mengusulkan hukuman alternatif. Sokrates mengatakan bahwa ia, yang sudah berbuat baik bagi kota, layak mendapatkan **makan gratis di balai kota** seperti pemenang Olimpiade. Ia tidak mau mengusulkan penjara, pengasingan, atau denda besar karena itu berarti mengakui bahwa ia salah. Akhirnya ia menawarkan denda kecil (tiga puluh mina) yang dijamin oleh sahabat-sahabatnya, termasuk Plato.
+
+Dalam bagian ini muncul kalimat yang terkenal: **hidup yang tidak diperiksa tidak layak dijalani**.
+
+### Bagian ketiga: Kata-kata terakhir
+
+Juri menjatuhkan hukuman mati. Sokrates berbicara kepada dua kelompok. Kepada yang memilih menghukumnya, ia memperingatkan bahwa mereka akan menanggung aib karena membunuh orang bijak, dan bahwa setelah ia mati, akan muncul lebih banyak penanya yang lebih sulit dihentikan.
+
+Kepada yang memilih membebaskannya, ia berkata bahwa suara batinnya tidak melarangnya sepanjang hari itu, dan ia menafsirkannya sebagai tanda bahwa apa yang terjadi bukanlah hal buruk. Ia mengajukan dua kemungkinan tentang kematian: bisa jadi seperti tidur tanpa mimpi, atau perpindahan jiwa ke tempat lain tempat ia dapat berdialog dengan orang-orang besar masa lalu. Kedua kemungkinan itu tidak menakutkan baginya. Bagi orang baik, tidak ada yang buruk, baik di hidup maupun mati.
+
+Ia memohon agar anak-anaknya dinasihati dengan cara yang sama bila mereka lebih mementingkan harta daripada kebajikan. Ia menutup dengan kalimat singkat: sudah waktunya berpisah, ia untuk mati dan mereka untuk hidup, dan mana yang lebih baik hanya diketahui Tuhan.
+
+---
+
+## Lampiran (Appendix)
+
+### A. Tuduhan dan jawaban
+
+| Tuduhan | Jawaban pokok Sokrates |
+|---|---|
+| Merusak anak muda | Siapa yang memperbaiki mereka? Meletos tidak bisa menjawab. Sokrates tidak sengaja merusak siapa pun. |
+| Tidak percaya pada dewa kota | Tuduhan ini bertentangan dengan tuduhan memperkenalkan makhluk ilahi baru. |
+| Menyelidiki langit dan bumi serta memutarbalikkan argumen | Ini tuduhan lama dari opini umum, bukan ajarannya. |
+
+### B. Kronologi singkat
+
+| Tahun (SM) | Peristiwa |
+|---|---|
+| 469 | Sokrates lahir di Athena. |
+| 423 | Aristophanes menampilkan *Awan*, yang mengejek Sokrates. |
+| 399 | Sokrates diadili, dihukum mati, dan meminum racun cemara. |
+| Sekitar 399–385 | Plato menulis *Apology* dan dialog-dialog lain tentang gurunya. |
+
+### C. Catatan tentang sumber
+
+- Edisi Gutenberg ini berisi pengantar dan terjemahan Jowett. Pengantar membandingkan *Apology* dengan *Crito* (Sokrates menolak melarikan diri dan taat hukum) dan *Phaedo* (kematiannya).
+- Plato disebut hadir di pengadilan itu, sedangkan ia dikatakan tidak hadir saat kematiannya.
+
+---
+
+## Glosarium
+
+**Apologia:** pembelaan di pengadilan. Bukan "permintaan maaf" dalam arti modern.
+
+**Dikastes (juri Athena):** warga biasa yang dipilih menjadi juri. Dalam pengadilan Sokrates jumlahnya sekitar lima ratus orang.
+
+**Daimonion:** suara atau tanda ilahi yang menurut Sokrates menuntunnya dengan cara melarang.
+
+**Orakel Delphi:** pendeta perempuan di kuil Apollo yang menyampaikan jawaban dewa. Pesan dari Delphi memulai kegiatan Sokrates menguji orang.
+
+**Elenkhos:** metode Sokrates menguji pendapat orang lewat tanya jawab.
+
+**Mina:** satuan uang Yunani kuno.
+
+**Prytaneion (balai kota):** tempat makan gratis bagi tamu kehormatan dan pahlawan Athena.
+
+**Meletos, Anytos, Lykon:** tiga penuduh Sokrates. Meletos berbicara atas nama para penyair, Anytos atas nama pengrajin dan politisi, dan Lykon atas nama para orator.
+
+**Sofis:** guru bayaran yang mengajarkan retorika. Sokrates menolak disebut salah satunya.
+
+**Awan (Clouds):** sandiwara Aristophanes yang menggambarkan Sokrates sebagai penjual kebijaksanaan palsu.
+
+---
+
+*Catatan penerjemah: Ini adalah penjelasan bebas dalam bahasa Indonesia, disusun dengan kata-kata sendiri. Bukan terjemahan kalimat per kalimat.*
